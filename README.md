@@ -10,7 +10,7 @@
 
 ### `currently working on`
 
-**BiolWild** · **Python projects** · **learning & creating**
+**BiolWildd** · **Python projects** · **learning & creating**
 
 <br>
 
